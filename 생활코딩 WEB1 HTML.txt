@@ -1,0 +1,71 @@
+ 글자 강조 
+ ㄴ<srtong>  </strong>            
+
+ 글자 밑줄
+ ㄴ<u> </u>
+
+ 폰트 크기 
+ ! <h1> </h1>
+ ! <h2> " </h2> ''
+ ! <h3> " </h3> ''
+ ! <h4> " </h4> ''
+ ! <h5> " </h5> ''
+ ㄴ<h6> " </h6> ''
+
+ 줄바꿈
+ ㄴ<br> 띄어쓰기
+ ㄴ<p> </p> 단락
+
+ 간격
+ ㄴ<style="margin-top:간격 숫자px;">
+
+ 이미지
+ ㄴ<img src="이미지 주소" width="크기%">
+
+ 목록 
+ ㄴ<li> </li>
+
+ 목록 띄어쓰기 
+ ㄴ<ul> </ul>
+
+ 목록 숫자
+ ㄴ<ol> </ol>
+
+ html에 슈퍼 스타들
+ 1.head
+ ㄴbody를 설명하는 태그는 헤드로 묶음
+
+
+ 2.body
+ ㄴ본문을 body 로 묶음
+  <body> </body>
+
+ 3.html
+ ㄴ이 모든 태그를 묶는 태그 
+  <html> </html>
+
+ 4.tite
+ ㄴ 웹 제목
+  <tile> </tile>
+
+ 5.meta
+ ㄴ웹브라우저 이 웹페이지로 열기
+  <meta charset="utf-8">
+
+ html태그 위에 적는것
+ ㄴ<!doctype html>
+
+a태그
+ㄴ링크
+<a href="주소"> </a>
+새창 링크 오픈
+<a href="주소" target="_blank"> </a>
+툴팁 뒤에 title="툴팁 이름"
+
+iframe 태그
+ㄴ
+	<iframe src="??">
+		<p>
+			
+		</p>
+	</iframe>
